@@ -1,20 +1,12 @@
+![Supply Chain Performance Dashboard premium hero](assets/readme-hero.svg)
+
 # Supply Chain Performance Dashboard
 
 > Operations BI dashboard for logistics performance, supplier reliability, delivery speed, inventory movement, and supply-chain risk visibility.
 
 Built by **Arsim Shefkiu** under **FullStackWithAI**.
 
-<p align="center">
-  <img alt="Supply Chain BI" src="https://img.shields.io/badge/Supply%20Chain%20BI-Operations%20Performance-14B8A6?style=for-the-badge" />
-  <img alt="Logistics" src="https://img.shields.io/badge/Logistics-Delivery%20Intelligence-0F172A?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Operations%20Analytics-14B8A6?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
 
 ---
 
@@ -72,6 +64,8 @@ This repository is presented as a premium supply-chain analytics dashboard for t
 
 ```text
 supply-chain-performance-dashboard/
+├── assets/
+│   └── readme-hero.svg
 ├── data/
 │   └── supply-chain-sample.csv
 ├── sql/
@@ -97,12 +91,6 @@ supply-chain-performance-dashboard/
 |---|---|
 | I build operations dashboards that turn logistics activity into clearer performance and risk decisions. | **FullStackWithAI** represents premium portfolio work around practical data problems, polished dashboards, and AI-assisted execution. |
 
-<p align="center">
-  <strong>Theme:</strong> Supply Chain BI · Logistics Analytics · Supplier Reliability · Operations Intelligence
-</p>
+**Theme:** Supply Chain BI · Logistics Analytics · Supplier Reliability · Operations Intelligence
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
